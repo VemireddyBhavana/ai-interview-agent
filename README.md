@@ -137,19 +137,11 @@ Generates the final evaluation report.
 6. **Interaction**: AI generates the next adaptive question (TTS).
 7. **Review**: After 5 questions, AI generates a detailed JSON feedback report.
 
----
-
-## 🌟 Future Improvements
-* 🔐 User Authentication (Login/Signup)
-* 📄 Resume-based Interview Questions
-* 📹 Webcam Mock Interview with AI Proctoring
-* 🎭 Emotion & Sentiment Detection
-* 🌍 Multi-language Support
-* 📊 Interview History & Progress Dashboard
 
 ---
 
 ## 🤝 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
